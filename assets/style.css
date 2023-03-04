@@ -42,7 +42,12 @@ p {
   }
 
   .ol_item{
-    margin-left: 20px;
-    padding-left: 5px;
+    margin-left: 25px;
+    padding-left: 0px;
+    font-size: 19px;
   }
-  
+
+  .sub_ul {
+    padding-left: 0px;
+    font-size: 20px;
+  }
